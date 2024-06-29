@@ -1,0 +1,36 @@
+
+.thm-btn.yellow-bg{
+    background-color: #01aef3 !important;
+  } 
+  .thm-btn.yellow-bg:hover{
+    background-color: #ef258d !important;
+  
+  } 
+  .nav_bar_main .nav_div_left ul.navigation-box > li > a {
+    /* color: black !important; */
+    display: inline-block;
+    padding: 8px 16px;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: none;
+    border-radius: 35px;
+    color: white;
+    background-color: #01aef3; /* You can change the background color */
+    transition: background-color 0.3s, color 0.3s;
+  }
+  .nav_bar_main .nav_div_left ul.navigation-box > li > a:hover {
+    /* color: #9c5ce8 !important; */
+    background-color: #ef258d;
+    color: black;
+
+  }
+  .banner_categories .list .list_items:hover{
+    background-color: #ef258d !important;
+
+  }
+  .banner_categories .list .list_items a:hover{
+    background-color: #ef258d !important;
+
+  }
